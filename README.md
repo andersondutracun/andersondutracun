@@ -22,6 +22,7 @@
           
           
           
+![Snake animation](https://github.com/andersondutracun/andersondutracun/blob/output/github-contribution-grid-snake.svg)          
 <!--
 **andersondutracun/andersondutracun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
