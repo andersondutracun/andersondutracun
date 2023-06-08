@@ -41,16 +41,8 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 <a href = "mailto:anderson.dutra18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anderson-dutra-b8475b249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<div>
-<a href="https://github.com/andersondutracun">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondutracun&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
           
-          
-          
-![Snake animation](https://github.com/andersondutracun/andersondutracun/blob/output/github-contribution-grid-snake.svg)          
+            
 <!--
 **andersondutracun/andersondutracun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
