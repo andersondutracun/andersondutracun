@@ -40,7 +40,7 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=1d1d1d)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS&logoColor=1d1d1d)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1d1d1d)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=1d1d1d)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=1d1d1d)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=1d1d1d)
