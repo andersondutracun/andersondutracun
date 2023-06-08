@@ -6,9 +6,7 @@
   <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years">
 </p>
 
-## Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
-
-### 🌱 What I've done
+### 🌱 Oque eu já fiz?
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
@@ -21,7 +19,19 @@
 <img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
 </div>
 
-## Estou praticando
+### 🔨 Oque ando fazendo
+
+Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, como HTML, CSS, JavaScript, Angular e Laravel.
+
+---
+
+### 📚 Estou estudando.
+
+* HTML, CSS, JavaScript
+* Angular, Laravel
+* Lua
+
+### Estou praticando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
