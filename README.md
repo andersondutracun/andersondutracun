@@ -6,7 +6,7 @@
   <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years">
 </p>
 
-### 🌱 Oque eu já fiz?
+<!--### 🌱 Oque eu já fiz?
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
@@ -17,7 +17,7 @@
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
 <img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
-</div>
+</div>-->
 
 ### 🔨 Oque ando fazendo
 
