@@ -1,5 +1,8 @@
-👋 Hello! Welcome to my Github profile.
-My name is Anderson Dutra!
+# Olá, me chamo Anderson Dutra ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+### Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
+
 
 <!--
 **andersondutracun/andersondutracun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
