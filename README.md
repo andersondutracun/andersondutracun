@@ -9,15 +9,15 @@
 <!--### 🌱 Oque eu já fiz?
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
-  <img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondutracun&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
-</div>
+<!--<div align="center">
+<!--  <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" <!--alt="Github Stats">
+<!--  <img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondutracun&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
+<!--</div>
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
-<div align="center">
-<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
-</div>-->
+<!--<div align="center">
+<!--<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
+<!--</div>-->
 
 ### 🔨 Oque ando fazendo
 
