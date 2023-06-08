@@ -38,7 +38,15 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 
 ### 👨‍💻 Estou praticando
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=1d1d1d)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS&logoColor=1d1d1d)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=1d1d1d)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=1d1d1d)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=1d1d1d)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=nodejs&logoColor=1d1d1d)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=1d1d1d)
+![Lunix](https://img.shields.io/badge/-Linux-000000?style=flat&logo=lunix&logoColor=1d1d1d)
 
 ## ✉️ Contatos:
 
