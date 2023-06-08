@@ -46,7 +46,7 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 ![Lua](https://img.shields.io/badge/-Lua-062C6D?style=flat&logo=lua&logoColor=1d1d1d)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-78d560?style=flat&logo=node.js&logoColor=1d1d1d)
 ![Ruby](https://img.shields.io/badge/-Ruby-C22314?style=flat&logo=ruby&logoColor=1d1d1d)
-![Lunix](https://img.shields.io/badge/-Linux-ccc?style=flat&logo=lunix&logoColor=1d1d1d)
+![Linux](https://img.shields.io/badge/-Linux-ccc?style=flat&logo=linux&logoColor=1d1d1d)
 
 ## ✉️ Contatos:
 
