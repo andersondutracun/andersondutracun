@@ -44,7 +44,7 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=1d1d1d)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=1d1d1d)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=1d1d1d)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node&logoColor=1d1d1d)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node.js&logoColor=1d1d1d)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=1d1d1d)
 ![Lunix](https://img.shields.io/badge/-Linux-000000?style=flat&logo=lunix&logoColor=1d1d1d)
 
