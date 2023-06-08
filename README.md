@@ -6,8 +6,9 @@
   <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years">
 </p>
 
-<center><img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></center>
-
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 <!--### 🌱 Oque eu já fiz?
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
