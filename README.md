@@ -8,12 +8,18 @@
 
 ## Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
 
-<!-- see https://github.com/antonkomarev/github-profile-views-counter and https://pufler.dev/git-badges/ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
-  <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
-  <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years"> -->
-</p>
+### 🌱 What I've done
+
+<!-- see https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondutracun&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
+</div>
+
+<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
+<div align="center">
+<img width="843em" src="https://github-readme-activity-graph.cyclic.app/graph?username=andersondutracun&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+</div>
 
 ## Estou praticando
 
