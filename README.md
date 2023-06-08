@@ -8,6 +8,13 @@
 
 ## Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
 
+<!-- see https://github.com/antonkomarev/github-profile-views-counter and https://pufler.dev/git-badges/ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
+  <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
+  <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years"> -->
+</p>
+
 ## Estou praticando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
