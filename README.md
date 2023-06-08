@@ -1,5 +1,10 @@
 # Olá, me chamo Anderson Dutra ! 
 #### Bem vindo ao meu perfil GitHub 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
+  <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
+  <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years">
+</p>
 
 ## Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
 
