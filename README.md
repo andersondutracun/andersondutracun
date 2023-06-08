@@ -1,9 +1,13 @@
 # Olá, me chamo Anderson Dutra ! 
-## Bem vindo ao meu perfil GitHub 👋
+#### Bem vindo ao meu perfil GitHub 👋
 
-### Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
+## Estou estudando Analise e Desenvolvimento de Sistemas, e sempre procurando novidades da área, apaixonado por programação, principalmente por coisas diferentes.
 
+## Estou praticando
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
+          
 <!--
 **andersondutracun/andersondutracun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
