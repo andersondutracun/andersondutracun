@@ -18,7 +18,7 @@
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
-<img width="843em" src="https://github-readme-activity-graph.cyclic.app/graph?username=andersondutracun&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
 </div>
 
 ## Estou praticando
