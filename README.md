@@ -41,7 +41,7 @@ Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, 
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=HTML5&logoColor=1d1d1d)
 ![CSS](https://img.shields.io/badge/-CSS-264DE4?style=flat&logo=CSS3&logoColor=1d1d1d)
-![React](https://img.shields.io/badge/-React-C3002F?style=flat&logo=react&logoColor=1d1d1d)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=1d1d1d)
 ![Lua](https://img.shields.io/badge/-Lua-062C6D?style=flat&logo=lua&logoColor=1d1d1d)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-78d560?style=flat&logo=node.js&logoColor=1d1d1d)
 ![Linux](https://img.shields.io/badge/-Linux-ccc?style=flat&logo=linux&logoColor=1d1d1d)
