@@ -2,9 +2,10 @@
 
 🎯 Passionate Full-Stack Developer | Open Source Enthusiast | Remote-Ready
 
-I'm a Brazilian developer specialized in creating high-performance web applications using **JavaScript, TypeScript, React, Node.js, and modern stacks**. I also have experience with **Python (FastAPI)**, **C#**, **MySQL/PostgreSQL**, and **MongoDB**.
+I'm a Brazilian developer specialized in creating high-performance web applications using **JavaScript, TypeScript, React, Node.js, and modern stacks**. I also have experience with **MySQL/PostgreSQL**, and **MongoDB**.
 
 With a strong focus on clean code, performance, and user experience, I'm always exploring new technologies and building solutions that matter. I also enjoy working on side projects, bots, and tools that help communities — including a Discord bot for design shops and a CRM for small businesses.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
   <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
@@ -27,17 +28,23 @@ With a strong focus on clean code, performance, and user experience, I'm always 
 <!--<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
 <!--</div>-->
 
-### 🔨 Oque ando fazendo
+---
 
-Estou estudando Analise e Desenvolvimento de Sistemas, e fazendo outros cursos, como HTML, CSS, JavaScript, React e outros.
+## 🚀 Tech Stack
+
+- **Frontend**: React, Next.js, Tailwind, Sass, JavaScript, TypeScript
+- **Backend**: Node.js, Express, FastAPI
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Vercel, 
+- **Tools**: Git, Figma, Postman, VS Code
 
 ---
 
-### 📚 Estou estudando
+## 🌍 Open to Work (International & Remote)
 
-* HTML, CSS, JavaScript
-* React
-* Lua
+I'm currently looking for opportunities as a **Full-Stack or Frontend Developer**, preferably in **remote-first international teams**. I value collaborative environments, clean architecture, and solving real-world problems.
+
+If you're looking for someone who loves to code, learn, and contribute to impactful projects — let's connect!
 
 ---
 
