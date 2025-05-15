@@ -16,14 +16,8 @@ With a strong focus on clean code, performance, and user experience, I'm always 
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-<div align="center">
-<img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" <!--alt="Github Stats">
 
-</div>
 
-<div align="center">
-<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
-</div>-->
 
 ---
 
@@ -69,7 +63,7 @@ If you're looking for someone who loves to code, learn, and contribute to impact
 
 ---
 
-### 👨‍💻 Estou praticando
+### 👨‍💻 Studying
 
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=HTML5&logoColor=1d1d1d)
@@ -79,4 +73,7 @@ If you're looking for someone who loves to code, learn, and contribute to impact
 ![NodeJS](https://img.shields.io/badge/-NodeJS-78d560?style=flat&logo=node.js&logoColor=1d1d1d)
 ![Linux](https://img.shields.io/badge/-Linux-ccc?style=flat&logo=linux&logoColor=1d1d1d)
 
+<div align="center">
+<img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" <!--alt="Github Stats">
+</div>
 
