@@ -15,12 +15,10 @@ With a strong focus on clean code, performance, and user experience, I'm always 
 <div align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-### 🌱 Oque eu já fiz?
 
-see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 <img height="150.5em" src="https://github-readme-stats.vercel.app/api?username=andersondutracun&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" <!--alt="Github Stats">
-<img height="150.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondutracun&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
+
 </div>
 
 see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
