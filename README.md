@@ -21,7 +21,6 @@ With a strong focus on clean code, performance, and user experience, I'm always 
 
 </div>
 
-see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
 <img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=andersondutracun&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
 </div>-->
