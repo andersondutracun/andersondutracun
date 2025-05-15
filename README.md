@@ -1,5 +1,10 @@
-# Olá, me chamo Anderson Dutra ! 
-#### Bem vindo ao meu perfil GitHub 👋
+# 👋 Hello world, I'm Anderson Dutra
+
+🎯 Passionate Full-Stack Developer | Open Source Enthusiast | Remote-Ready
+
+I'm a Brazilian developer specialized in creating high-performance web applications using **JavaScript, TypeScript, React, Node.js, and modern stacks**. I also have experience with **Python (FastAPI)**, **C#**, **MySQL/PostgreSQL**, and **MongoDB**.
+
+With a strong focus on clean code, performance, and user experience, I'm always exploring new technologies and building solutions that matter. I also enjoy working on side projects, bots, and tools that help communities — including a Discord bot for design shops and a CRM for small businesses.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
   <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
