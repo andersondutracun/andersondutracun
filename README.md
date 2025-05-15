@@ -48,6 +48,30 @@ If you're looking for someone who loves to code, learn, and contribute to impact
 
 ---
 
+## 📌 Featured Projects
+
+- 🎨 **CodeNetwork**: a Social Network for developers  
+  _Node.js, ReactJS, MongoDB_
+
+- 🏠 **Amicro Platform** (Figma + React)  
+  _Frontend prototype + Admin Dashboard_
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andersondutrac/)
+- 🌐 [Portfolio](https://www.andersondutra.com.br) <!-- substitua se tiver -->
+- ✉️ anderson@andersondutra.com.br
+- 💻 [GitHub Projects](https://github.com/andersondutracun)
+
+---
+
+### 🧠 Fun Fact
+> I'm constantly learning and leveling up. Every project I build teaches me something new — and I love sharing that journey.
+
+---
+
 ### 👨‍💻 Estou praticando
 
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=1d1d1d)
